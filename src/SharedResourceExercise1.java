@@ -1,4 +1,4 @@
-public class SharedResource1 {
+public class SharedResourceExercise1 {
     private int counter = 0;
     private final Object lock = new Object();
 

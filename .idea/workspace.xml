@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cff60574-0245-4236-94a8-9868c21c7524" name="Changes" comment="" />
+    <list default="true" id="cff60574-0245-4236-94a8-9868c21c7524" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_OOP_24.7.2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculateStudentsJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ComplexTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CounterTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicationLimitedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IncrementValueThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PresenceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SharedResourceExercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2T3h4UiI7MNZp1bVkSrCYxeCd8N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,14 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/danie/Desktop/כל התכנותים/consumer-producer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +71,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690277482760</updated>
+      <workItem from="1690277484014" duration="5759000" />
+      <workItem from="1690320257894" duration="470000" />
+      <workItem from="1690366586973" duration="2670000" />
+      <workItem from="1690834904592" duration="3460000" />
+      <workItem from="1690917738404" duration="616000" />
+      <workItem from="1690964363519" duration="2378000" />
+      <workItem from="1691097909594" duration="555000" />
+      <workItem from="1691140069205" duration="811000" />
+      <workItem from="1691266414271" duration="9000" />
+      <workItem from="1691529014044" duration="3375000" />
+      <workItem from="1691747231737" duration="17000" />
+      <workItem from="1692655633624" duration="1386000" />
+      <workItem from="1692687489824" duration="1866000" />
+      <workItem from="1692690097726" duration="2823000" />
+      <workItem from="1692705703042" duration="2379000" />
+      <workItem from="1692859219764" duration="1618000" />
+      <workItem from="1692871002003" duration="840000" />
+      <workItem from="1692887934042" duration="10075000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
